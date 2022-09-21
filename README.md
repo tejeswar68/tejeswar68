@@ -1,4 +1,4 @@
-<img  alt="Coding" width="100%" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
 <h1 align="center">Hi 👋, I'm Tejeswara Murthy Palwadi</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 
